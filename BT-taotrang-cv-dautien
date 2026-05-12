@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Trang CV Cá Nhân</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">CV Cá Nhân</h1>
+        <h2>Ảnh:<img src="C:\Users\ADMIN\Pictures\Saved Pictures/cvdemo.jpg" width="365" height="231"></h2>
+
+  </body>
+      <h2>Họ và tên:Trương Hiếu Thịnh</h2>
+      <h2>Địa chỉ: Hà Nội</h2>
+      <h2>Số điện thoại:09123456789</h2>
+      <h2>Email:<a>123@gmail.com</a></h2>
+      <h2>Học vấn:Đại Học</h2>
+      <h2>Bằng cấp:123</h2>
+      <h2>Kỹ năng:123</h2>
+      <h2>Kinh nghiệm:không</h2>
+      <h2>Định hướng phát triển cá nhân:Lập trình viên</h2>
+      
+</html>
